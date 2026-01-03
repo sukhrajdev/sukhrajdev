@@ -25,14 +25,9 @@ I am currently **open to work** and looking for collaborative projects where I c
 
 ---
 
-
-### 📈 GitHub Stats
-![Sukhraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukhrajdev&theme=graywhite&hide_border=true)
----
-
 ### 📫 Let's Connect
 
 I am ready to join a team or collaborate on a new idea.
 
-* 🐦 **Twitter:** [Twiiter](https://x.com/NotRajXd)
+* 🐦 **Twitter/X:** [@NotRajXd](https://x.com/NotRajXd)
 * 📧 **Email:** [sukhrajsingh.dev1@gmail.com](mailto:sukhrajsingh.dev1@gmail.com)
