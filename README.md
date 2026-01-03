@@ -28,7 +28,7 @@ I am currently **open to work** and looking for collaborative projects where I c
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=graywhite&hide_border=true" alt="Sukhraj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sukhraj.dev&show_icons=true&theme=graywhite&hide_border=true" alt="Sukhraj's GitHub Stats" />
 </p>
 
 ---
@@ -37,5 +37,5 @@ I am currently **open to work** and looking for collaborative projects where I c
 
 I am ready to join a team or collaborate on a new idea.
 
-* 🐦 **Twitter:** [twitter.com](https://x.com/NotRajXd)
-* 📧 **Email:** [your-email@example.com](mailto:sukhrajsingh.dev1@gmail.com)
+* 🐦 **Twitter:** [Twiiter](https://x.com/NotRajXd)
+* 📧 **Email:** [sukhrajsingh.dev1@gmail.com](mailto:sukhrajsingh.dev1@gmail.com)
