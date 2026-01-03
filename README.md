@@ -27,8 +27,7 @@ I am currently **open to work** and looking for collaborative projects where I c
 
 
 ### 📈 GitHub Stats
-![Sukhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhrajdev&show_icons=true&theme=graywhite&hide_border=true)
-
+![Sukhraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sukhrajdev&theme=graywhite&hide_border=true)
 ---
 
 ### 📫 Let's Connect
