@@ -25,11 +25,9 @@ I am currently **open to work** and looking for collaborative projects where I c
 
 ---
 
-### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukhrajdev&show_icons=true&theme=graywhite&hide_border=true" alt="Sukhraj's GitHub Stats" />
-</p>
+### 📈 GitHub Stats
+![Sukhraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhrajdev&show_icons=true&theme=graywhite&hide_border=true)
 
 ---
 
