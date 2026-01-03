@@ -37,5 +37,5 @@ I am currently **open to work** and looking for collaborative projects where I c
 
 I am ready to join a team or collaborate on a new idea.
 
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+* 🐦 **Twitter:** [twitter.com](https://x.com/NotRajXd)
+* 📧 **Email:** [your-email@example.com](mailto:sukhrajsingh.dev1@gmail.com)
