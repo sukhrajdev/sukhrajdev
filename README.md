@@ -1,6 +1,6 @@
-# Hi there, I'm Sukhraj Singh 👋
+# Hi there, I'm Sukhraj Singh 
 
-#### 👨‍💻 Backend Engineer | JavaScript & Python
+####  Backend Engineer | JavaScript & Python
 
 I am a focused Backend Engineer dedicated to building scalable and efficient software systems. My passion lies in backend architecture, logic optimization, and learning new technologies daily to solve complex problems.
 
